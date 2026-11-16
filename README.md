@@ -30,12 +30,7 @@ Environmental sustainability assessment of Grafoplás S.A. using GRI reporting s
 
 Analytical project aimed at optimizing Formula 1 vehicle performance through mathematical modelling of aerodynamic forces, friction constraints and tyre wear. Developed optimization models to identify the optimal speed and downforce configuration for maximum track efficiency. 【1-203854】
 
-<br>
-
 **Skills:** Operations Research, Optimization Models, Python, Data Analysis, Mathematical Modelling, Problem Solving
-
-<br>
-<br>
 
 ---
 
