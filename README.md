@@ -21,8 +21,6 @@ Quality management project developed for Turyelectro Galicia S.L. using the Lean
 
 Environmental sustainability assessment of Grafoplás S.A. using GRI reporting standards. Analyzed energy consumption, emissions, waste management and environmental performance indicators to develop data-driven recommendations for improving sustainability and reducing carbon footprint. 【1-51ebcb】
 
-<br>
-
 **Skills:** ESG Analysis, Sustainability Reporting, GRI Standards, Environmental Management, Carbon Footprint Analysis, Strategic Assessment
 
 
