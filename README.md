@@ -25,7 +25,6 @@ Environmental sustainability assessment of Grafoplás S.A. using GRI reporting s
 
 **Skills:** ESG Analysis, Sustainability Reporting, GRI Standards, Environmental Management, Carbon Footprint Analysis, Strategic Assessment
 
-<br>
 
 ---
 
