@@ -40,7 +40,7 @@ Operations research project focused on maximizing Formula 1 vehicle performance 
 
 ### Strategic Planning & Business Development: BizBoost-media
 
-Strategic planning project involving the creation and development of a fictional digital marketing agency. Applied PESTEL, Porter's Five Forces, SWOT and growth strategy frameworks to assess competitive positioning and design a long-term business development roadmap.
+Strategic planning project based on a self-developed digital marketing agency concept. Applied PESTEL, Porter's Five Forces, SWOT and growth strategy frameworks to assess competitive positioning and design a long-term business development roadmap.
 
 **Skills:** Strategic Planning, Business Strategy, Competitive Analysis, Market Analysis, Growth Strategy
 
