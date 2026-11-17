@@ -40,6 +40,15 @@ Strategic planning project involving the creation and development of a fictional
 **Skills:** Strategic Planning, Business Strategy, Competitive Analysis, Market Analysis, Growth Strategy
 
 ---
+
+### Production Optimization Analysis
+
+Operations improvement project focused on manufacturing efficiency, bottleneck identification and process optimization. Applied Lean Manufacturing principles, Industry 4.0 concepts and Monte Carlo simulation to evaluate operational performance improvements.
+
+**Skills:** Operations Management, Process Optimization, Lean Manufacturing, Monte Carlo Simulation, Industry 4.0
+
+---
+
 ## Contact
 
 - LinkedIn: www.linkedin.com/in/yago-mínguez-estévez-5076312a2
