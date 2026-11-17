@@ -3,6 +3,7 @@
 # Hi, I'm Yago
 
 Final-year Business Engineering student at the UIE with a strong interest in business strategy, operations management, data analytics and continuous improvement.
+
 Portfolio showcasing projects in strategy, operations, data analytics, sustainability and process optimization.
 
 - Finance
