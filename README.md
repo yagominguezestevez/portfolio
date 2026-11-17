@@ -43,7 +43,7 @@ Strategic planning project involving the creation and development of a fictional
 
 ### Production Optimization Analysis
 
-Operations improvement project focused on manufacturing efficiency, bottleneck identification and process optimization. Applied Lean Manufacturing principles, Industry 4.0 concepts and Monte Carlo simulation to evaluate operational performance improvements.
+Production optimization project focused on ROCKWOOL Executive Production Analysis's manufacturing plant in Caparroso (Navarra, Spain). Analyzed process flow, bottlenecks and operational performance, developing improvement proposals based on Lean Manufacturing, Industry 4.0 and simulation techniques.
 
 **Skills:** Operations Management, Process Optimization, Lean Manufacturing, Monte Carlo Simulation, Industry 4.0
 
