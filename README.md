@@ -1,3 +1,4 @@
+<img src="banner.png" alt="Banner" width="100%">
 # Hi, I'm Yago
 
 Final-year Business Engineering student at the UIE, passionate about data-driven decision making, process improvement and business analytics.
