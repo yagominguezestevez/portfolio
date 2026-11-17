@@ -19,7 +19,7 @@ Quality improvement project developed for Turyelectro Galicia S.L. using the DMA
 
 ### Environmental Data Analytics
 
-Data analytics project comparing NO₂ pollution levels in Madrid and Barcelona using open environmental datasets (2020–2023). Performed data cleaning, exploratory analysis, trend identification and predictive modelling to assess historical air quality patterns and support data-driven environmental insights. 【1-4ff7f8】
+Data analytics project comparing NO₂ pollution levels in Madrid and Barcelona using open environmental datasets (2020–2023). Performed data cleaning, exploratory analysis, trend identification and predictive modelling to assess historical air quality patterns and support data-driven environmental insights. 
 
 **Skills:** Data Analytics, Statistical Analysis, Data Visualization, Predictive Modelling, Excel, Environmental Data
 
