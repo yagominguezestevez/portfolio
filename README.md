@@ -17,6 +17,14 @@ Quality improvement project developed for Turyelectro Galicia S.L. using the DMA
 
 ---
 
+### Environmental Data Analytics
+
+Data analytics project comparing NO₂ pollution levels in Madrid and Barcelona using open environmental datasets (2020–2023). Performed data cleaning, exploratory analysis, trend identification and predictive modelling to assess historical air quality patterns and support data-driven environmental insights. 【1-4ff7f8】
+
+**Skills:** Data Analytics, Statistical Analysis, Data Visualization, Predictive Modelling, Excel, Environmental Data
+
+---
+
 ### ESG & Sustainability Analysis: Grafoplás
 
 Environmental sustainability assessment of Grafoplás S.A. based on GRI reporting standards. Evaluated energy consumption, emissions and waste management practices to identify opportunities for improving sustainability performance.
