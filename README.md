@@ -9,7 +9,7 @@ Final-year Business Engineering student at the UIE, passionate about data-driven
 
 ## Featured Projects
 
-### Lean Six Sigma Quality Improvement
+### Lean Six Sigma Quality Improvement: Turyelectro
 
 Quality improvement project developed for Turyelectro Galicia S.L. using the DMAIC methodology to identify process inefficiencies, analyze root causes and implement data-driven solutions to enhance operational performance.
 
@@ -17,7 +17,7 @@ Quality improvement project developed for Turyelectro Galicia S.L. using the DMA
 
 ---
 
-### ESG & Sustainability Analysis
+### ESG & Sustainability Analysis: Grafoplás
 
 Environmental sustainability assessment of Grafoplás S.A. based on GRI reporting standards. Evaluated energy consumption, emissions and waste management practices to identify opportunities for improving sustainability performance.
 
@@ -33,7 +33,7 @@ Operations research project focused on maximizing Formula 1 vehicle performance 
 
 ---
 
-### Strategic Planning & Business Development
+### Strategic Planning & Business Development: BizBoost-media
 
 Strategic planning project involving the creation and development of a fictional digital marketing agency. Applied PESTEL, Porter's Five Forces, SWOT and growth strategy frameworks to assess competitive positioning and design a long-term business development roadmap.
 
@@ -41,7 +41,7 @@ Strategic planning project involving the creation and development of a fictional
 
 ---
 
-### Production Optimization Analysis
+### Rockwool Production Optimization Analysis
 
 Production optimization project focused on ROCKWOOL Executive Production Analysis's manufacturing plant in Caparroso (Navarra, Spain). Analyzed process flow, bottlenecks and operational performance, developing improvement proposals based on Lean Manufacturing, Industry 4.0 and simulation techniques.
 
