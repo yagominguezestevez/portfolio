@@ -4,6 +4,8 @@
 
 Final-year Business Engineering student at the UIE, passionate about data-driven decision making, process improvement and business analytics.
 
+Portfolio showcasing projects in strategy, operations, data analytics, sustainability and process optimization.
+
 - Finance
 - Data Analytics
 - Operations Management
