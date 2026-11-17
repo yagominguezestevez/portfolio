@@ -35,8 +35,7 @@ Operations research project focused on maximizing Formula 1 vehicle performance 
 
 ### Strategic Planning & Business Development
 
-Strategic analysis project for a digital marketing agency using PESTEL, Porter's Five Forces, SWOT and growth strategy frameworks to assess competitive positioning and support long-term business development initiatives. 【1-b5acc4】
-
+Strategic analysis project for a digital marketing agency using PESTEL, Porter's Five Forces, SWOT and growth strategy frameworks to assess competitive positioning and support long-term business development initiatives. 
 **Skills:** Strategic Planning, Business Strategy, Competitive Analysis, Market Analysis, Growth Strategy
 
 ---
