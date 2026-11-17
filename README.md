@@ -13,13 +13,6 @@ Portfolio showcasing projects in strategy, operations, data analytics, sustainab
 
 ## Featured Projects
 
-### Lean Six Sigma Quality Improvement: Turyelectro
-
-Quality improvement project developed for Turyelectro Galicia S.L. using the DMAIC methodology to identify process inefficiencies, analyze root causes and implement data-driven solutions to enhance operational performance.
-
-**Skills:** Lean Six Sigma, DMAIC, Root Cause Analysis, Process Improvement, Quality Management, Data Analysis
-
----
 
 ### Environmental Data Analytics
 
